@@ -1,0 +1,41 @@
+stages:
+    - linters
+    - tests
+
+.base:
+    image: python:3.11
+    before_script:
+        - pip install poetry==1.6.0
+
+black:
+  stage: linters
+  extends: .base
+  script:
+    - make black
+
+isort:
+  stage: linters
+  extends: .base
+  script:
+    - make isort
+
+mypy:
+  stage: linters
+  extends: .base
+  script:
+    - make mypy
+
+flake8:
+  stage: linters
+  extends: .base
+  script:
+    - make flake8
+
+.test_base:
+  stage: tests
+  extends: .base
+  script:
+    - make -e TESTS_ARGS="-k $CI_JOB_NAME.py" pytest
+
+test_0:
+  extends: .test_base
