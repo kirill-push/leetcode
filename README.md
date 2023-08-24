@@ -7,3 +7,4 @@
 
 ### (Prefix Sum)
 - [724. Find Pivot Index](src/leetcode/problem_724.py) ([link](https://leetcode.com/problems/find-pivot-index/))
+- [1480. Running Sum of 1d Array](src/leetcode/problem_1480.py) ([link](https://leetcode.com/problems/running-sum-of-1d-array/))
