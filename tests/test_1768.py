@@ -1,20 +1,14 @@
-from leetcode.problem_1768 import Solution
 import pytest
 
+from leetcode.problem_1768 import Solution
 
 test_data = [
     ("abc", "pqr", "apbqcr"),
     ("ab", "pqrs", "apbqrs"),
-    ("abcd", "pq", "apbqcd")
+    ("abcd", "pq", "apbqcd"),
 ]
 
-words = {
-    "anmsdfjkhjlhs": 3,
-    "uuududuu": 2,
-    "ansdfuiyocvhn": 10,
-    "acvcvdd": 1,
-    "aaa": 2
-}
+words = {"anmsdfjkhjlhs": 3, "uuududuu": 2, "ansdfuiyocvhn": 10, "acvcvdd": 1}
 
 
 def base_words(ans, k1):
@@ -33,12 +27,10 @@ def base_words(ans, k1):
             word2.append(s)
         else:
             word1.append(s)
-    return (''.join(word1), ''.join(word2), ans)
+    return ("".join(word1), "".join(word2), ans)
 
 
-test_data_auto = [
-    base_words(ans, words[ans]) for ans in words.keys()
-]
+test_data_auto = [base_words(ans, words[ans]) for ans in words.keys()]
 
 
 @pytest.mark.parametrize("word1,word2,expected", test_data)

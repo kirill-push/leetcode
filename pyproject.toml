@@ -30,3 +30,12 @@ python_version = "3.11"
 ignore_missing_imports = true
 strict = true
 exclude = "tests"
+
+[tool.flake8]
+    exclude = ".venv"
+    max-line-length = 79
+    extend-ignore = """
+        W503,
+        E203,
+        E701,
+    """

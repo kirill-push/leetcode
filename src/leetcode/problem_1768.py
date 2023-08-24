@@ -13,4 +13,4 @@ class Solution:
                 flag_2 += 1
             if flag_1 == len(word1) and flag_2 == len(word2):
                 end = True
-        return ''.join(ans_arr)
+        return "".join(ans_arr)

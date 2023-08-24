@@ -1,6 +1,6 @@
-from leetcode.problem_283 import Solution
 import pytest
 
+from leetcode.problem_283 import Solution
 
 test_data = [
     ([0, 1, 0, 3, 12], [1, 3, 12, 0, 0]),

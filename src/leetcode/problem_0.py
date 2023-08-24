@@ -1,5 +1,5 @@
-def test_func():
-    return 'Hello, World!\n'
+def test_func() -> str:
+    return "Hello, World!\n"
 
 
 answer = test_func()

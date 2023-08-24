@@ -1,6 +1,6 @@
-from leetcode.problem_392 import Solution
 import pytest
 
+from leetcode.problem_392 import Solution
 
 test_data = [
     ("abc", "ahbgdc", True),
