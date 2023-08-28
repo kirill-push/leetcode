@@ -1,7 +1,10 @@
 [flake8]
 max-line-length = 79
-exclude = .venv
+exclude = 
+    .venv,
+    .vscode
 extend-ignore = 
     W503,
     E203,
     E701
+max-complexity = 10
