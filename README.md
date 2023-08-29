@@ -14,5 +14,6 @@
 - [1071. Greatest Common Divisor of Strings](src/leetcode/problem_1071.py) ([link](https://leetcode.com/problems/greatest-common-divisor-of-strings/))
 
 ### (Binary Search)
-- [33. Search in Rotated Sorted Array](src/leetcode/problem_33.py) ([link](https://leetcode.com/problems/search-in-rotated-sorted-array/description/))
+- [33. Search in Rotated Sorted Array](src/leetcode/problem_33.py) ([link](https://leetcode.com/problems/search-in-rotated-sorted-array/))
+- [34. Find First and Last Position of Element in Sorted Array](src/leetcode/problem_34.py) ([link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/))
 
