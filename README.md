@@ -1,6 +1,7 @@
 # Leetcode
 
 ### Two pointers
+- [88. Merge Sorted Array](src/leetcode/problem_88.py) ([link](https://leetcode.com/problems/merge-sorted-array/))
 - [283. Move Zeroes](src/leetcode/problem_283.py) ([link](https://leetcode.com/problems/move-zeroes/))
 - [350. Intersection of Two Arrays II](src/leetcode/problem_350.py) ([link](https://leetcode.com/problems/intersection-of-two-arrays-ii/))
 - [392. Is Subsequence](src/leetcode/problem_392.py) ([link](https://leetcode.com/problems/is-subsequence/))
