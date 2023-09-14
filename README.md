@@ -22,6 +22,7 @@
 ### Counting Sort
 - [274. H-Index](src/leetcode/problem_274.py) ([link](https://leetcode.com/problems/h-index/))
 
-### Hashmap
+### Hash Table
+- [1. Two Sum](src/leetcode/problem_1.py) ([link](https://leetcode.com/problems/two-sum/))
 - [290. Word Pattern](src/leetcode/problem_290.py) ([link](https://leetcode.com/problems/word-pattern/))
 
