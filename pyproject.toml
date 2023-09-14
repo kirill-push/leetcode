@@ -44,3 +44,6 @@ exclude = "tests"
 [tool.pytest.ini_options]
 timeout = 5
 testpaths = ["tests"]
+
+[tool.black]
+line-length = 79
