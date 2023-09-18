@@ -1,5 +1,6 @@
 # Leetcode
 
+## Free coding
 ### Two pointers
 - [88. Merge Sorted Array](src/leetcode/problem_88.py) ([link](https://leetcode.com/problems/merge-sorted-array/))
 - [283. Move Zeroes](src/leetcode/problem_283.py) ([link](https://leetcode.com/problems/move-zeroes/))
@@ -25,4 +26,12 @@
 ### Hash Table
 - [1. Two Sum](src/leetcode/problem_1.py) ([link](https://leetcode.com/problems/two-sum/))
 - [290. Word Pattern](src/leetcode/problem_290.py) ([link](https://leetcode.com/problems/word-pattern/))
+
+## Study plan
+### Array
+#### Essential question
+- [1. Two Sum](src/leetcode/problem_1.py) ([link](https://leetcode.com/problems/two-sum/))
+- [121. Best Time to Buy and Sell Stock](src/leetcode/problem_121.py) ([link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/))
+- [238. Product of Array Except Self](src/leetcode/problem_238.py) ([link](https://leetcode.com/problems/product-of-array-except-self/))
+- [53. Maximum Subarray](src/leetcode/problem_53.py) ([link](https://leetcode.com/problems/maximum-subarray/))
 
