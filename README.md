@@ -1,5 +1,4 @@
 # Leetcode
-
 ## Free coding
 ### Two pointers
 - [88. Merge Sorted Array](src/leetcode/problem_88.py) ([link](https://leetcode.com/problems/merge-sorted-array/))
@@ -9,6 +8,7 @@
 - [1768. Merge Strings Alternately](src/leetcode/problem_1768.py) ([link](https://leetcode.com/problems/merge-strings-alternately/))
 
 ### Prefix Sum
+- [209. Minimum Size Subarray Sum](src/leetcode/problem_209.py) ([link](https://leetcode.com/minimum-size-subarray-sum/))
 - [238. Product of Array Except Self](src/leetcode/problem_238.py) ([link](https://leetcode.com/product-of-array-except-self/))
 - [724. Find Pivot Index](src/leetcode/problem_724.py) ([link](https://leetcode.com/problems/find-pivot-index/))
 - [1480. Running Sum of 1d Array](src/leetcode/problem_1480.py) ([link](https://leetcode.com/problems/running-sum-of-1d-array/))
@@ -29,9 +29,17 @@
 
 ## Study plan
 ### Array
-#### Essential question
+#### Essential questions
 - [1. Two Sum](src/leetcode/problem_1.py) ([link](https://leetcode.com/problems/two-sum/))
 - [121. Best Time to Buy and Sell Stock](src/leetcode/problem_121.py) ([link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/))
 - [238. Product of Array Except Self](src/leetcode/problem_238.py) ([link](https://leetcode.com/problems/product-of-array-except-self/))
 - [53. Maximum Subarray](src/leetcode/problem_53.py) ([link](https://leetcode.com/problems/maximum-subarray/))
+
+#### Recommended practice questions
+- [217. Contains Duplicate](src/leetcode/problem_217.py) ([link](https://leetcode.com/problems/contains-duplicate/))
+- [152. Maximum Product Subarray](src/leetcode/problem_152.py) ([link](https://leetcode.com/problems/maximum-product-subarray/))
+- [33. Search in Rotated Sorted Array](src/leetcode/problem_33.py) ([link](https://leetcode.com/problems/search-in-rotated-sorted-array/))
+- [15. 3Sum](src/leetcode/problem_5.py) ([link](https://leetcode.com/problems/3sum/))
+- [11. Container With Most Water](src/leetcode/problem_11.py) ([link](https://leetcode.com/problems/container-with-most-water/))
+- [239. Sliding Window Maximum](src/leetcode/problem_239.py) ([link](https://leetcode.com/problems/sliding-window-maximum/))
 
