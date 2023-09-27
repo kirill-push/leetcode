@@ -47,3 +47,6 @@ testpaths = ["tests"]
 
 [tool.black]
 line-length = 79
+
+[tool.poetry.scripts]
+check = "poetry_script:main"
