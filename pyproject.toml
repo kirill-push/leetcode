@@ -49,4 +49,4 @@ testpaths = ["tests"]
 line-length = 79
 
 [tool.poetry.scripts]
-check = "poetry_script:main"
+fix = "poetry_script:main"
