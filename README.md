@@ -43,3 +43,16 @@
 - [11. Container With Most Water](src/leetcode/problem_11.py) ([link](https://leetcode.com/problems/container-with-most-water/))
 - [239. Sliding Window Maximum](src/leetcode/problem_239.py) ([link](https://leetcode.com/problems/sliding-window-maximum/))
 
+### String
+#### Essential questions
+- [242. Valid Anagram](src/leetcode/problem_242.py) ([link](https://leetcode.com/problems/valid-anagram/))
+- [125. Valid Palindrome](src/leetcode/problem_125.py) ([link](https://leetcode.com/problems/valid-palindrome/))
+- [3. Longest Substring Without Repeating Characters](src/leetcode/problem_3.py) ([link](https://leetcode.com/problems/longest-substring-without-repeating-characters/))
+
+#### Recommended practice questions
+- [424. Longest Repeating Character Replacement](src/leetcode/problem_424.py) ([link](https://leetcode.com/problems/longest-repeating-character-replacement/))
+- [438. Find All Anagrams in a String](src/leetcode/problem_438.py) ([link](https://leetcode.com/problems/find-all-anagrams-in-a-string/))
+- [76. Minimum Window Substring](src/leetcode/problem_76.py) ([link](https://leetcode.com/problems/minimum-window-substring/))
+- [49. Group Anagram](src/leetcode/problem_49.py) ([link](https://leetcode.com/problems/group-anagrams/))
+- [5. Longest Palindromic Substring](src/leetcode/problem_5.py) ([link](https://leetcode.com/problems/longest-palindromic-substring/))
+
