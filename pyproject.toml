@@ -50,3 +50,4 @@ line-length = 79
 
 [tool.poetry.scripts]
 fix = "poetry_script:main"
+create = "create_script:main"
