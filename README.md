@@ -1,9 +1,9 @@
 # LeetCode Solutions
 
-Inside this repository, you will find my solutions to a variety of LeetCode coding challenges. I regularly update it as I solve more problems and improve my coding skills.
-These solutions are organized by problem main topic, and there is a dedicated folder containing test cases for these solutions. Some problems are solved according to a structured learning plan, while others are selected in free mode. 
+:file_folder: Inside this repository, you will find my solutions to a variety of LeetCode coding challenges. I regularly update it as I solve more problems and improve my coding skills.
+These solutions are organized by problem main topic, and there is a dedicated folder containing test cases for these solutions. Some problems are solved according to a structured learning plan, while others are selected in free mode. :books::computer:
 
-By clicking on the problem's title, you'll be directed to the corresponding LeetCode problem page. Clicking on "**link to solution**" will take you to my solution stored in this repository. 
+By clicking on the problem's title, you'll be directed to the corresponding LeetCode problem page. Clicking on "**link to solution**" will take you to my solution stored in this repository. :link:
 
 Your feedback is highly appreciated!
 Enjoy your coding journey! :rocket:
