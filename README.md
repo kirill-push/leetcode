@@ -65,6 +65,7 @@ Enjoy your coding journey! :rocket:
 - [1480. Running Sum of 1d Array](src/leetcode/problem_1480.py) ([link to solution](https://leetcode.com/problems/running-sum-of-1d-array/))
 
 ### Math
+- [9. Palindrome Number](src/leetcode/problem_9.py) ([link to solution](https://leetcode.com/problems/palindrome-number/))
 - [1071. Greatest Common Divisor of Strings](src/leetcode/problem_1071.py) ([link to solution](https://leetcode.com/problems/greatest-common-divisor-of-strings/))
 
 ### Binary Search
