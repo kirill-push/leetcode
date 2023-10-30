@@ -59,6 +59,11 @@ Enjoy your coding journey! :rocket:
 #### Recommended practice questions
 - -->
 
+### Sorting and searching
+#### Essential questions
+- [704. Binary Search](src/leetcode/problem_704.py) ([link to solution](https://leetcode.com/problems/binary-search/))
+- [33. Search in Rotated Sorted Array](src/leetcode/problem_33.py) ([link to solution](https://leetcode.com/problems/search-in-rotated-sorted-array/))
+
 ## Free coding
 ### Two pointers
 - [88. Merge Sorted Array](src/leetcode/problem_88.py) ([link to solution](https://leetcode.com/problems/merge-sorted-array/))
