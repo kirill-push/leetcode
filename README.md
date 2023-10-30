@@ -50,6 +50,15 @@ Enjoy your coding journey! :rocket:
 - [146. LRU Cache](src/leetcode/problem_146.py) ([link to solution](https://leetcode.com/problems/lru-cache/))
 - [432. All O`one Data Structure](src/leetcode/problem_432.py) ([link to solution](https://leetcode.com/problems/all-oone-data-structure/))
 
+### Recursion 
+#### Essential questions
+- [22. Generate Parentheses](src/leetcode/problem_22.py) ([link to solution](https://leetcode.com/problems/generate-parentheses/))
+<!-- - [77. Combinations](src/leetcode/problem_77.py) ([link to solution](https://leetcode.com/problems/combinations/))
+- [78. Subsets](src/leetcode/problem_78.py) ([link to solution](https://leetcode.com/problems/subsets/))
+
+#### Recommended practice questions
+- -->
+
 ## Free coding
 ### Two pointers
 - [88. Merge Sorted Array](src/leetcode/problem_88.py) ([link to solution](https://leetcode.com/problems/merge-sorted-array/))
